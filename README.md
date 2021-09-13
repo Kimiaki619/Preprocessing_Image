@@ -1,1 +1,2 @@
 # Preprocessing_Image
+設定ミスでリポジトリがmainになってます
